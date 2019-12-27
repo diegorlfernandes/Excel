@@ -1,0 +1,7 @@
+C:\dotnetcore\Excel\ExcelApp\bin\Debug\ExcelApp.exe.config
+C:\dotnetcore\Excel\ExcelApp\bin\Debug\ExcelApp.exe
+C:\dotnetcore\Excel\ExcelApp\bin\Debug\ExcelApp.pdb
+C:\dotnetcore\Excel\ExcelApp\obj\Debug\ExcelApp.csprojAssemblyReference.cache
+C:\dotnetcore\Excel\ExcelApp\obj\Debug\ExcelApp.csproj.ResolveComReference.cache
+C:\dotnetcore\Excel\ExcelApp\obj\Debug\ExcelApp.exe
+C:\dotnetcore\Excel\ExcelApp\obj\Debug\ExcelApp.pdb
